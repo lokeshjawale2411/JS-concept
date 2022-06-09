@@ -1,4 +1,4 @@
-console.log("This is tutorial 46");
+console.log("This is simple functions in regular expression");
 let reg = /harry/; // This is a regular expression literal in js
 reg = /harry/g; // g means global
 // reg = /harry/i; // i means case insensitive
